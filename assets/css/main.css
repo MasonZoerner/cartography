@@ -2366,12 +2366,6 @@
 		}
 
 /* Thumbnails */
-	<div>
-		<a href="images/MinnesotaLabeling.jpg">
-			<img="images/MinnesotaLabeling.jpg" alt="" />
-			<h3>Minnesota Map<h3>
-		</a>
-	<div>
 	
 	.thumbnails {
 		display: -moz-flex;
